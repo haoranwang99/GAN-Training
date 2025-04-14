@@ -29,23 +29,6 @@ The training is based on **binary cross-entropy loss**, and optimization is done
 - Exploration of different learning rates and their effect.
 - Bonus: Training using **Stochastic Gradient Descent (SGD)** and comparing dynamics with batch gradient descent.
 
-## 🚀 Getting Started
-
-### Requirements
-
-```bash
-pip install numpy matplotlib
-```
-
-### To Run the Notebook
-
-Simply open `GEN_Training.ipynb` in Jupyter Notebook or JupyterLab and run all cells.
-
-### To Run the Python Script (if applicable)
-
-```bash
-python gan_train.py
-```
 
 ## 🧪 Experiments
 
